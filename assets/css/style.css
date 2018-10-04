@@ -1,0 +1,12 @@
+#buttons{
+    width: 100%;
+    border: solid orange 10px;
+}
+.container{
+    background-color: rgb(255, 6, 180);
+    border: midnightblue 10px solid;
+}
+img{
+    border: orangered double 6px;
+    
+}
